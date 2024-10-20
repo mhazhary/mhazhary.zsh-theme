@@ -1,6 +1,6 @@
 # mhazhary.zsh-theme
 Oh My ZSH Theme of mine
-Just a simple modification from (robbyrussell theme)[https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/robbyrussell.zsh-theme].
+Just a simple modification from [robbyrussell theme](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/robbyrussell.zsh-theme).
 
 ## Usage
 Clone the repository.
